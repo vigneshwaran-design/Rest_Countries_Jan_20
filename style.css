@@ -1,0 +1,35 @@
+body{
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+h1{
+    padding:20px;
+}
+
+.row{
+    margin: 5px;
+}
+img{
+    padding:5px;
+    border-radius: 10px;
+    margin-top:25px;
+}
+.card-header{
+    background:none;
+    border: none;
+    background-color: rgb(187, 145, 53);
+}
+.card{
+    background-image: linear-gradient(to right,rgba(212, 209, 34, 0.972),rgb(73, 29, 233));
+}
+.but{
+    border-radius: 7px;
+    cursor: pointer;
+    font-size: 15px;
+    color:black;
+    border:2px solid rgb(129, 139, 228);
+}
+.but:hover{
+    background-image: linear-gradient(to right,rgb(211, 135, 85),rgb(198, 104, 226));
+}
